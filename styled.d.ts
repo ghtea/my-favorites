@@ -1,6 +1,8 @@
 // import original module declarations
 import 'styled-components';
 
+// not using
+
 type eachColorDict = {
   body?: string;
 

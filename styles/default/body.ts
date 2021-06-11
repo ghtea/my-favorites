@@ -1,4 +1,4 @@
-import {Props} from 'styles/GlobalStyle'
+import {Props} from 'styles/bu-GlobalStyle'
 
 const body = `body {
   display: flex;
